@@ -1,0 +1,48 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#bgd{
+    background-color: gray;
+    border-radius: 10px;
+    min-width: 252px;
+    max-width: 252px;
+    margin: auto;
+    margin-top: 30px;
+    padding: 20px;
+}
+#display{
+    font-family:Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    padding: 2px 5px;
+    font-size: 200%;
+    width: 95%;
+    height: 37px;
+    text-align: right;
+    background-color: green;
+}
+
+button{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 200%;
+    border-radius: 10px;
+    width: 60px;
+    height: 50px;
+    padding: 3px;
+    margin: 2px 0;
+}
+.sig{
+    background-color: rgb(0, 82, 0)
+}
+#clearall,#clear{
+    background-color: rgb(201, 0, 0) ;
+}
+#res{
+    background-color: rgb(0, 0, 199);
+    color: white;
+}
+#copy{
+    background-color: green;
+}
